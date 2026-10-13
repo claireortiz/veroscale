@@ -1,2 +1,8 @@
 # veroscale
-plan
+schematic diagram 
+
+## 📷 Preview 
+
+![vero](vero.jpg) 
+
+
